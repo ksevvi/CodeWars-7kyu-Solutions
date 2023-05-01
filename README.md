@@ -1,2 +1,2 @@
-# CodeWars-7kyu-Solutions-
+# CodeWars-7kyu-Solutions
 Created https://github.com/Ksevvi
